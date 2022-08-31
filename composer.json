@@ -1,0 +1,17 @@
+{
+    "name": "vishakha/contact",
+    "description": "This is contact form pkg",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vishakha\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vishakha"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
